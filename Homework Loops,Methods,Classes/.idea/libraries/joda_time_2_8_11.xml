@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="joda-time-2.8.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/joda-time-2.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/joda-time-2.8.1-no-tzdb.jar!/" />
+      <root url="file://$USER_HOME$/Desktop" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/joda-time-2.8.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/joda-time-2.8.1-sources.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/src/example" />
+      <root url="file://$USER_HOME$/Desktop/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" type="SOURCES" />
+  </library>
+</component>
